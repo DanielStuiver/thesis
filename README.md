@@ -7,7 +7,7 @@
 
 ## Overview
 
-This repository contains all materials for the Bachelor thesis **“Extracting Temporal Narrative Components with Large Language Models”**, in which we investigate the ability of modern LLMs (zero-, one- and few-shot) to automatically extract temporal elements (order, duration, frequency, etc.) from product reviews, compare their performance across models, and evaluate against a manually annotated gold standard using BERT-based similarity measures and classification metrics.
+This repository contains all materials for the Bachelor thesis **“Extracting Temporal Narrative Components with Large Language Models”**, in which we investigate the ability of modern LLMs (zero- and one-shot) to automatically extract temporal elements (order, duration, frequency, etc.) from product reviews, compare their performance across models, and evaluate against a manually annotated gold standard using exact-match detection measures and classification metrics.
 
 **Abstract**  
 This thesis investigates the ability of Large Language Models (LLMs) to extract temporal
@@ -22,6 +22,3 @@ temporal awareness but underscore the need for enhanced prompting and task-speci
 tuning to reduce false positives and improve nuanced temporal classification.
 
 ---
-
-## Content
-
